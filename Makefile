@@ -9,5 +9,6 @@ dist:
 	cp db/dbconf.yml dist/db/
 	cp -R db/migrations dist/migrations
 	cp config.example.toml dist/config.toml
+	cp ../../../../bin/goose dist/
 	tar czf archive.tgz dist
 
