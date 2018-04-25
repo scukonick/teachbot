@@ -1,0 +1,3 @@
+BotToken = "TOKEN_FROM_TELEGRAM"
+DBConn = "user=teachbot dbname=teachbot sslmode=disable password=qwerty"
+ImagesDir = "./images"
